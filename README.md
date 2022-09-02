@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xd3nial
+- 👋 Hi, I’m @danielxu
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning SQL, Python, and more 
 - 💞️ I’m looking to collaborate on projects
